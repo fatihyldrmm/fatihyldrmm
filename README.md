@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihyldrmm&label=Profile%20views&color=0e75b6&style=flat" alt="fatihyldrmm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihyldrmm" alt="fatihyldrmm" /></a> </p>
 
 - 📫 How to reach me **fatihyldrm3693@gmail.com**
 
